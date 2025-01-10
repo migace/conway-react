@@ -6,6 +6,3 @@ export const createRandomGrid = (): number[][] => {
     Array.from({ length: GRID_SIZE }, () => (Math.random() > 0.5 ? 1 : 0))
   );
 };
-
-
-

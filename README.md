@@ -31,8 +31,8 @@ This project implements Conway's Game of Life using React. The game is a zero-pl
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/migace/conway-react.git
+cd conway-react
 ```
 
 2. Install dependencies:
